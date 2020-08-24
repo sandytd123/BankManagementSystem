@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: AccountSetup
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 844553
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://spring.io/projects/spring-boot/demo
+Created-By: Maven Integration for Eclipse
+
